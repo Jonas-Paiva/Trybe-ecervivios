@@ -2,8 +2,8 @@
 
 ## Fundamentos
 
-## Front-and
+## Front-End
 
-## Back-and
+## Back-End  
 
 ## Ciência da Computação
