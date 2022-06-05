@@ -1,9 +1,9 @@
-# Trybe Execícios e Projetos
+# Trybe Exercícios e Projetos
 
 ## Fundamentos
 
 ## Front-End
 
-## Back-End  
+## Back-End
 
 ## Ciência da Computação
