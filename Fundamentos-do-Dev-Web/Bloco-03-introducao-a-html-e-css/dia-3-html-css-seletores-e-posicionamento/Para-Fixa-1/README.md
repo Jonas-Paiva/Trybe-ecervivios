@@ -1,4 +1,4 @@
-# Execícios Para Fixar: Visualizando O Box Model na prática
+# Execícios Para Fixar - Visualizando O Box Model na prática: Parte 1
 
 Agora vamos reproduzir esse esquema de itens no seu browser!
 
