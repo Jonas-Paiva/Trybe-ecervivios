@@ -1,0 +1,18 @@
+h1,p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+li{
+    list-style: none;
+}
+li:hover{
+    background-color: rgb(66, 94, 255);
+}
+a:active{
+    font-size: 2em;
+    transition: 300ms;
+}

@@ -6,5 +6,5 @@
    - O texto das tags "h1" e "p" estejam centralizados;
    - A cor de fundo da sua linha mude quando o cursor estiver sobre o item;
    - A fonte do item, mude quando ele for clicado.
-4. adicione uma lisata não ordenada com, pelo menos, 3 características que você gosta;
-5. No "style.css", adicione a propriedade "list-style:none" para ambas as listas.
+4. adicione uma lista não ordenada com, pelo menos, 3 características que você gosta;
+5. No "style.css", adicione a propriedade "list-style: none" para ambas as listas.
