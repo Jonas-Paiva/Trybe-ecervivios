@@ -69,3 +69,4 @@ maiorPalavra(teste2);
 // Retorno esperado: true
 // verificaFimPalavra('joaofernando', 'fernan');
 // Retorno esperado: false
+
