@@ -68,5 +68,4 @@ maiorPalavra(teste2);
 // verificaFimPalavra('trybe', 'be');
 // Retorno esperado: true
 // verificaFimPalavra('joaofernando', 'fernan');
-// Retorno esperado: false
-
+// Retorno esperado: false;
