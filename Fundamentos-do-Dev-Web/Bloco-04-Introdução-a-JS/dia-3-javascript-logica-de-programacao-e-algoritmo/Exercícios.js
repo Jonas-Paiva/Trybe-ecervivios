@@ -20,7 +20,7 @@ for (const key in word) {
 console.log(reveserWord.join(''));
 
 // 3- Considere o array de strings abaixo:
-let array = ['java', 'javascript', 'python', 'html', 'css','JP'];
+let array = ['java', 'javascript', 'python', 'html', 'css', 'JP'];
 // Escreva dois algoritmos: um que retorne a maior palavra deste array e outro que retorne a menor. Considere o número de caracteres de cada palavra.
 
 function maiorPalavra(array) {
@@ -28,27 +28,29 @@ function maiorPalavra(array) {
 	let palavra = '';
 	for (const iterator of array) {
 		if (iterator.length > maior) {
-            maior = iterator.length;
+			maior = iterator.length;
 			palavra = iterator;
 		}
 	}
-    return console.log(` A maior palavra do array é ${palavra} com ${maior} caracteres.`);
+	return console.log(
+		` A maior palavra do array é ${palavra} com ${maior} caracteres.`
+	);
 }
 
-function menorPalavra(array){
-    let menor = 9999999999;
+function menorPalavra(array) {
+	let menor = 9999999999;
 	let palavra = '';
 	for (const iterator of array) {
 		if (iterator.length < menor) {
-            menor = iterator.length;
+			menor = iterator.length;
 			palavra = iterator;
 		}
 	}
-    return console.log(` A menor palavra do array é ${palavra} com ${menor} caracteres.`);
-    
-
+	return console.log(
+		` A menor palavra do array é ${palavra} com ${menor} caracteres.`
+	);
 }
 maiorPalavra(array);
 menorPalavra(array);
 
-// 4- Um número primo é um número inteiro maior do que 1 que possui somente dois divisores, ou seja, é divisível por 1 e por ele mesmo. Sabendo disso, escreva um algoritmo que retorne o maior número primo entre 2 e 50.
+
