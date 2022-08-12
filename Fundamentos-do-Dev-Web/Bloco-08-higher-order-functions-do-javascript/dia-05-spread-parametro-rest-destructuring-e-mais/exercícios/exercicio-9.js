@@ -29,6 +29,7 @@ const products = [
       price: 1500,
       id: 2,
     },
+    
     {
       name: 'phone',
       price: 500,
